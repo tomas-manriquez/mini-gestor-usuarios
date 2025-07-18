@@ -47,7 +47,7 @@ Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-
 
 ## 3. Ejecución de frontend
 
-1. Ir al directorio ```/frontend```
+1. Ir al directorio ```/frontend``` en otra terminal
 2. Ejecutar el comando ```npm install```
 3. Ejecutar el comando  ```npm run dev```
 4. Abrir una pestaña en un browser a localhost:3000
