@@ -14,7 +14,7 @@ Este proyecto consiste en una aplicación web que permite gestionar usuarios gua
 
 ## 1. Carga de datos
 
-1. Ir al directorio ```/go-template-structured\ (1)`populate``` en una terminal
+1. Ir al directorio ```/go-template-structured\ (1)/populate``` en una terminal
 2. Ejecutar el comando ```go version``` para asegurar que Go está instalado
 3. Ejecutar el comando ```go run populate.go```. Debería entregar un output como el siguiente:
 ```plaintext
@@ -49,5 +49,5 @@ Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-
 
 1. Ir al directorio ```/frontend```
 2. Ejecutar el comando ```npm install```
-3. Ejecutar el comando  ```npm run dev````
+3. Ejecutar el comando  ```npm run dev```
 4. Abrir una pestaña en un browser a localhost:3000
